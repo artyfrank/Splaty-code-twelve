@@ -29,3 +29,5 @@
   [x](https://github.com/artyfrank/Splaty-code-twelve#x
   [y](https://github.com/artyfrank/Splaty-code-twelve#y
   [z](https://github.com/artyfrank/Splaty-code-twelve#z
+  [y](https://github.com/artyfrank/Splaty-code-twelve#y
+  [z](https://github.com/artyfrank/Splaty-code-twelve#z
