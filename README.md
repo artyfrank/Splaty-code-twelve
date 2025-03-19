@@ -1,6 +1,7 @@
 # Splaty-code-twelve  
   
   download the file [here](https://github.com/artyfrank/Splaty-code-twelve/releases/new)  
+  splaty code: [here](https://splatycode.bananabanana.me/)
 
 ## table of contents  
   [a](https://github.com/artyfrank/Splaty-code-twelve#a)
