@@ -1,0 +1,4400 @@
+{
+  "elements": [
+    {
+      "name": "_",
+      "rules": []
+    },
+    {
+      "name": "A",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "_"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              "X",
+              ".",
+              "."
+            ],
+            [
+              "_",
+              "@",
+              "@"
+            ],
+            [
+              "X",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 0
+        }
+      ]
+    },
+    {
+      "name": "B",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              "@",
+              "@",
+              "@"
+            ],
+            [
+              "@",
+              "@",
+              "@"
+            ],
+            [
+              "@",
+              "@",
+              "@"
+            ]
+          ],
+          "symmetry": 0,
+          "chosenSymetry": 0
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              "_",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "@"
+            ],
+            [
+              ".",
+              "_",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 2
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "rules": []
+    },
+    {
+      "name": "E",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "O",
+              "@"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 2
+        }
+      ]
+    },
+    {
+      "name": "F",
+      "rules": []
+    },
+    {
+      "name": "G",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "X"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              "H",
+              ".",
+              "_"
+            ],
+            [
+              ".",
+              "@",
+              "@"
+            ],
+            [
+              "H",
+              ".",
+              "_"
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 2
+        },
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 3
+        }
+      ]
+    },
+    {
+      "name": "H",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "X"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              "G",
+              ".",
+              "_"
+            ],
+            [
+              ".",
+              "@",
+              "@"
+            ],
+            [
+              "G",
+              ".",
+              "_"
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 1
+        },
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 2
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "rules": []
+    },
+    {
+      "name": "J",
+      "rules": []
+    },
+    {
+      "name": "K",
+      "rules": []
+    },
+    {
+      "name": "L",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 0,
+          "chosenSymetry": 0
+        }
+      ]
+    },
+    {
+      "name": "M",
+      "rules": []
+    },
+    {
+      "name": "N",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "N"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "_"
+            ],
+            [
+              ".",
+              ".",
+              "@"
+            ],
+            [
+              ".",
+              ".",
+              "@"
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 0
+        }
+      ]
+    },
+    {
+      "name": "O",
+      "rules": []
+    },
+    {
+      "name": "P",
+      "rules": []
+    },
+    {
+      "name": "Q",
+      "rules": []
+    },
+    {
+      "name": "R",
+      "rules": []
+    },
+    {
+      "name": "S",
+      "rules": []
+    },
+    {
+      "name": "T",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 0,
+          "chosenSymetry": 0
+        }
+      ]
+    },
+    {
+      "name": "U",
+      "rules": []
+    },
+    {
+      "name": "V",
+      "rules": [
+        {
+          "when": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              ".",
+              "@",
+              "?"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "then": [
+            [
+              ".",
+              ".",
+              "."
+            ],
+            [
+              "@",
+              "_",
+              "@"
+            ],
+            [
+              ".",
+              ".",
+              "."
+            ]
+          ],
+          "symmetry": 3,
+          "chosenSymetry": 2
+        }
+      ]
+    },
+    {
+      "name": "W",
+      "rules": []
+    },
+    {
+      "name": "X",
+      "rules": []
+    },
+    {
+      "name": "Y",
+      "rules": []
+    },
+    {
+      "name": "Z",
+      "rules": []
+    }
+  ],
+  "grid": [
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "A",
+        "rules": [
+          {
+            "when": [
+              [
+                ".",
+                ".",
+                "."
+              ],
+              [
+                ".",
+                "@",
+                "_"
+              ],
+              [
+                ".",
+                ".",
+                "."
+              ]
+            ],
+            "then": [
+              [
+                "X",
+                ".",
+                "."
+              ],
+              [
+                "_",
+                "@",
+                "@"
+              ],
+              [
+                "X",
+                ".",
+                "."
+              ]
+            ],
+            "symmetry": 3,
+            "chosenSymetry": 0
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "A",
+        "rules": [
+          {
+            "when": [
+              [
+                ".",
+                ".",
+                "."
+              ],
+              [
+                ".",
+                "@",
+                "_"
+              ],
+              [
+                ".",
+                ".",
+                "."
+              ]
+            ],
+            "then": [
+              [
+                "X",
+                ".",
+                "."
+              ],
+              [
+                "_",
+                "@",
+                "@"
+              ],
+              [
+                "X",
+                ".",
+                "."
+              ]
+            ],
+            "symmetry": 3,
+            "chosenSymetry": 0
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "A",
+        "rules": [
+          {
+            "when": [
+              [
+                ".",
+                ".",
+                "."
+              ],
+              [
+                ".",
+                "@",
+                "_"
+              ],
+              [
+                ".",
+                ".",
+                "."
+              ]
+            ],
+            "then": [
+              [
+                "X",
+                ".",
+                "."
+              ],
+              [
+                "_",
+                "@",
+                "@"
+              ],
+              [
+                "X",
+                ".",
+                "."
+              ]
+            ],
+            "symmetry": 3,
+            "chosenSymetry": 0
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "A",
+        "rules": [
+          {
+            "when": [
+              [
+                ".",
+                ".",
+                "."
+              ],
+              [
+                ".",
+                "@",
+                "_"
+              ],
+              [
+                ".",
+                ".",
+                "."
+              ]
+            ],
+            "then": [
+              [
+                "X",
+                ".",
+                "."
+              ],
+              [
+                "_",
+                "@",
+                "@"
+              ],
+              [
+                "X",
+                ".",
+                "."
+              ]
+            ],
+            "symmetry": 3,
+            "chosenSymetry": 0
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "X",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ],
+    [
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      },
+      {
+        "name": "_",
+        "rules": []
+      }
+    ]
+  ],
+  "editingElement": "E",
+  "stampingGrid": "A",
+  "stampingRule": ".",
+  "playing": true
+}
